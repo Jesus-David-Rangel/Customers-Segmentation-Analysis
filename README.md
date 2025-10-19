@@ -8,6 +8,8 @@ Los hallazgos revelaron que los clientes **jóvenes presentan una mayor propensi
 
 Desde el punto de vista estratégico, el análisis permite **optimizar la segmentación de clientes mediante técnicas de clustering**, identificando grupos homogéneos según sus características demográficas y patrones de gasto. Esto brinda la posibilidad de diseñar **campañas dirigidas, programas de fidelización diferenciados** y estrategias de precios adaptadas, contribuyendo directamente al incremento del retorno sobre la inversión en marketing y la retención de clientes.
 
+---
+
 ### Customer Segmentation for Marketing Strategy Optimization
 
 **Project Description:**
